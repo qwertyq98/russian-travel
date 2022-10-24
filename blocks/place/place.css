@@ -1,0 +1,35 @@
+.place {
+  display: grid;
+  gap: 48px 40px;
+  margin: 0 auto 80px;
+  grid-template-columns: 460px 1fr;
+  box-sizing: border-box;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.place:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .place{
+    gap: 48px 32px;
+    grid-template-columns: 440px 1fr;
+  }
+}
+
+@media (max-width: 1023px) and (min-width: 768px) {
+  .place {
+    gap: 48px 28px;
+    margin: 0 auto 73px;
+    grid-template-columns: 340px 1fr;
+  }
+}
+
+@media (max-width: 767px) {
+  .place {
+    gap: 32px;
+    grid-template-columns: 1fr;
+    margin: 0 auto 50px;
+  }
+}

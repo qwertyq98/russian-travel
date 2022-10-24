@@ -1,0 +1,16 @@
+.content__section_sell-grid {
+  padding: 0 48px;
+  width: 100%;
+}
+
+@media (max-width: 1023px) and (min-width: 768px) {
+  .content__section_sell-grid {
+    padding: 0 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .content__section_sell-grid {
+    padding: 0 16px;
+  }
+}

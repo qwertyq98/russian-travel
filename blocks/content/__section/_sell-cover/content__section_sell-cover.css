@@ -1,0 +1,11 @@
+.content__section_sell-cover {
+  padding: 0 48px;
+  width: 100%;
+}
+
+@media (max-width: 1279px) {
+  .content__section_sell-cover {
+    padding: 0;
+  }
+}
+

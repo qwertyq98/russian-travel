@@ -1,0 +1,19 @@
+.intro__list-item {
+  max-width: 690px;
+  margin: 0;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+
+@media (max-width: 1023px) {
+  .intro__list-item {
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro__list-item {
+    max-width: 288px;
+  }
+}

@@ -6,13 +6,14 @@
 @media screen and (max-width: 896px) {
   .page__content {
     margin-top: 48px;
+    margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .page__content {
     margin-top: 48px;
-    margin-bottom: 88px;
+    margin-bottom: 64px;
   }
 }
 

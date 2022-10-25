@@ -10,13 +10,13 @@
   margin-bottom: 0;
 }
 
-@media (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1152px) {
   .place__paragraph {
     margin: 0 48px 27px;
   }
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 896px) {
   .place__paragraph {
     margin: 0 24px 25px;
     font-size: 16px;
@@ -24,7 +24,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .place__paragraph {
     margin: 0 16px 25px;
     line-height: 26.08px;

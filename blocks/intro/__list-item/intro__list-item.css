@@ -6,13 +6,13 @@
   font-weight: 700;
 }
 
-@media (max-width: 1023px) {
+@media screen and (max-width: 896px) {
   .intro__list-item {
     max-width: 720px;
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .intro__list-item {
     max-width: 288px;
   }

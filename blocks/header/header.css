@@ -8,13 +8,13 @@
 }
 
 
-@media (min-width: 321px) and (max-width: 768px) {
+@media screen and (max-width: 896px) {
   .header {
     padding: 0 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .header {
     margin: 16px auto 0;
     padding: 0 16px;

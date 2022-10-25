@@ -14,7 +14,7 @@
   opacity: .5;
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .header__link {
     width: 22px;
     height: 20px;

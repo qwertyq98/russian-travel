@@ -3,13 +3,13 @@
   width: 100%;
 }
 
-@media (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1152px) {
   .content__section_sell-lead {
    padding: 0 48px;
   }
 }
 
-@media (max-width: 1023px) {
+@media screen and (max-width: 896px) {
   .content__section_sell-lead {
     padding: 0;
   }

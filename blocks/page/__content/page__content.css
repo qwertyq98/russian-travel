@@ -3,13 +3,13 @@
   margin-bottom: 92px;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media screen and (max-width: 896px) {
   .page__content {
     margin-top: 48px;
   }
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 544px) {
   .page__content {
     margin-top: 48px;
     margin-bottom: 88px;

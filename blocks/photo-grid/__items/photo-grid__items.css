@@ -4,20 +4,20 @@
   grid-template-columns: repeat(4, 1fr);
 }
 
-@media (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1152px) {
   .photo-grid__items {
     gap: 14px;
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 896px) {
   .photo-grid__items {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .photo-grid__items {
     gap: 12px;
     grid-template-columns: 1fr;

@@ -4,19 +4,19 @@
   align-self: self-end;
 }
 
-@media (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1152px) {
   .place__website {
     margin: 0 48px;
   }
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 896px) {
   .place__website {
     margin: 0 24px;
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .place__website {
     margin: 0 16px;
   }

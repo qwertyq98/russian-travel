@@ -4,13 +4,13 @@
 }
 
 
-@media (min-width: 321px) and (max-width: 768px) {
+@media screen and (max-width: 896px) {
   .content {
     grid-row-gap: 88px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 544px) {
   .content {
     grid-row-gap: 64px;
   }

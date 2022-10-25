@@ -11,14 +11,14 @@
   margin-bottom: 0;
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (max-width: 1152px) {
   .place{
     gap: 48px 32px;
     grid-template-columns: 440px 1fr;
   }
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 896px) {
   .place {
     gap: 48px 28px;
     margin: 0 auto 73px;
@@ -26,7 +26,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .place {
     gap: 32px;
     grid-template-columns: 1fr;

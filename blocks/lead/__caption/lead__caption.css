@@ -9,13 +9,13 @@
   letter-spacing: 0.15em;
 }
 
-@media (max-width: 1023px) {
+@media screen and (max-width: 896px) {
   .lead__caption {
     padding-left: 24px;
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 544px) {
   .lead__caption {
     padding-left: 16px;
   }

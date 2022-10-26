@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 680px) {
   .header {
     margin: 16px auto 0;
     padding: 0 16px;

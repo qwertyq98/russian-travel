@@ -10,7 +10,7 @@
   }
 }
 
-@media (max-width: 544px) {
+@media (max-width: 680px) {
   .content {
     grid-row-gap: 64px;
   }

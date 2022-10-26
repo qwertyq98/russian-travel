@@ -24,7 +24,7 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 680px) {
   .place__paragraph {
     margin: 0 16px 25px;
     line-height: 26.08px;

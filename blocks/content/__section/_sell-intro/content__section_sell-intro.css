@@ -15,7 +15,7 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 680px) {
   .content__section_sell-intro {
     padding: 0 16px;
   }

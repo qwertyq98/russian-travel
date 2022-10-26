@@ -5,7 +5,7 @@
   list-style: none;
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 680px) {
   .header__links {
     margin: 14px 0 8px;
   }

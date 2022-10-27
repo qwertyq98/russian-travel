@@ -3,6 +3,12 @@
   margin-bottom: 92px;
 }
 
+@media screen and (max-width: 1124px) {
+  .page__content {
+    margin-top: 48px;
+  }
+}
+
 @media screen and (max-width: 896px) {
   .page__content {
     margin-top: 48px;
